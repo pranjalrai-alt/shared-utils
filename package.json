@@ -1,0 +1,6 @@
+{
+  "name": "shared-utils",
+  "version": "1.0.0",
+  "description": "Shared helpers used via git submodule (POC)",
+  "main": "index.js"
+}
